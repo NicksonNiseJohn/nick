@@ -47,7 +47,7 @@
             </p>
         </section>
         <footer>
-            <p>For more you can visit<a>WIKIPEDIA</a></p>
+            <p>For more you can visit<a href="www.wikipedia.com>WIKIPEDIA</a></p>
             <P>CONTACT<br>075265426726<br>064655427798</P>
             <a href="www.facebook.com">FACEBOOK</a><br>
             <a href="www.instangram.com">INSTAGRAM</a>
