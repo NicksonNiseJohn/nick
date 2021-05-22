@@ -49,8 +49,8 @@
         <footer>
             <p>For more you can visit WIKIPEDIA</p>
             <P>CONTACT<br>075265426726<br>064655427798</P>
-            <a href="www.facebook.com">FACEBOOK</a><br>
-            <a href="www.instangram.com">INSTAGRAM</a>
+            <a href="www.facebook.com/">FACEBOOK</a><br>
+            <a href="www.instangram.com/">INSTAGRAM</a>
         </footer>
     </body>
 </html>
